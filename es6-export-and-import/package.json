@@ -1,0 +1,16 @@
+{
+  "name": "es6-export-and-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "babel-node ./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/node": "^7.13.10",
+    "babel-cli": "6",
+    "babel-preset-es2015": "6"
+  }
+}
